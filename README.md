@@ -1,1 +1,2 @@
 # Imputation-methods
+Short presentation about imputation methods, the content includes an introduction about missing data, types of missingness pattern, summary of an article that made a benchmark for different imputation methods, random forest-based imputation example in R.
